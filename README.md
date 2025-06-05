@@ -1,4 +1,4 @@
-# Conversor Decimal ↔ Binário 🧮
+# Conversor Decimal ↔ Binário 🔢
 
 Este é um pequeno projeto em Python com interface gráfica (Tkinter) que permite converter números decimais para binários e binários para decimais de forma simples e rápida.
 
