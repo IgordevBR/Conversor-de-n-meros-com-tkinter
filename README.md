@@ -4,7 +4,7 @@ Este é um pequeno projeto em Python com interface gráfica (Tkinter) que permit
 
 # Funcionalidades
 
-- ✅ Conversão de Decimal para Binário
-- ✅ Conversão de Binário para Decimal
+- ✅ Conversão de decimal para binário
+- ✅ Conversão de binário para decimal
 - ✅ Interface gráfica amigável usando Tkinter
 - ✅ Validação de entrada com mensagens de erro
