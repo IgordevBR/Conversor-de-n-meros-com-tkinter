@@ -1,2 +1,17 @@
-# Conversor-de-n-meros-com-tkinter
-Esse é um programa desenvolvido na linguagem Python para converter números decimais em números binários e vice versa usando a interface gráfica do TKINTER. Faz parte de uma atividade desenvolvida na minha faculdade de Sistemas de Informação orientada pelo professor Cleyton Vanut.
+# Conversor Decimal ↔ Binário 🧮
+
+Este é um pequeno projeto em Python com interface gráfica (Tkinter) que permite converter números **decimais para binários** e **binários para decimais** de forma simples e rápida.
+
+## Funcionalidades
+
+- ✅ Conversão de Decimal para Binário
+- ✅ Conversão de Binário para Decimal
+- ✅ Interface gráfica amigável usando Tkinter
+- ✅ Validação de entrada com mensagens de erro
+
+## Como executar
+
+1. Certifique-se de ter o Python instalado (versão 3.x).
+2. Baixe ou clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
